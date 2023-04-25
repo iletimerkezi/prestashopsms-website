@@ -93,7 +93,7 @@ async function sendEmail(form) {
     Merhaba,
     <br />
     <br />
-    Prestashop SMS eklentiyi indirmek için <a href="https://www.prestashopsms.com/ps1.7.zip">tıklayınız.</a>
+    Prestashop SMS eklentiyi indirmek için <a href="https://www.prestashopsms.com/iletimerkezinotify.zip">tıklayınız.</a>
     <br />
     <br />
     <ul>
@@ -116,7 +116,7 @@ async function sendEmail(form) {
     Hi,
     <br />
     <br />
-    <a href="https://www.prestashopsms.com/ps1.7.zip">Click to download the Prestashop SMS plugin.</a>
+    <a href="https://www.prestashopsms.com/iletimerkezinotify.zip">Click to download the Prestashop SMS plugin.</a>
     <br />
     <br />
     <ul>
